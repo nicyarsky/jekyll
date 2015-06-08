@@ -1,8 +1,7 @@
 # Site settings
 title: yarsky.io
 email: yarsky@me.com
-description: > 
-My Name is nicholas Yaworsky (yarsky), this is my blog... now go and read.
+description: > My Name is nicholas Yaworsky (yarsky), this is my blog... now go and read.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
